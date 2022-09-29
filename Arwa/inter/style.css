@@ -1,0 +1,30 @@
+body{
+    background-color: rgb(188, 188, 188);
+}
+table{
+   width: 900px;
+    gab: 10px;
+    text-align: center;
+    border: 2px solid black;
+    border-collapse: collapse;
+    margin-left: 15%;
+    margin-top: 5%;
+}
+th{
+border: 10px;
+ border: 2px solid black;
+border-collapse: collapse;
+}
+tr{
+    border: 10px;
+    border: 2px solid black;
+    border-collapse: collapse;
+}
+td{
+    border: 10px;
+        border: 2px solid black;
+        border-collapse: collapse;
+    }
+#tabelr{
+    background-color: gray;
+}
