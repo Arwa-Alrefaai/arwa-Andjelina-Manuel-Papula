@@ -1,0 +1,81 @@
+var employee =  `[{   
+"Unique_ID" : 0 ,
+"First_Name" : "Arwa" ,
+"Last_Name" : "Alrefaai"  ,
+"Email_address" : "alrefaaiarwa@gmail.com"  ,
+"Job_Title" : "Junior Web Devlober"  ,
+"Salary" : "100"
+},
+{
+  "Unique_ID": 0,
+"First_Name": "Arwa",
+"Last_Name": "Alrefaai",
+"Email_address": "alrefaaiarwa@gmail.com",
+"Job_Title": "Junior Web Devlober",
+"Salary": "100"  
+},
+{
+    "Unique_ID": 0,
+    "First_Name": "Arwa",
+    "Last_Name": "Alrefaai",
+    "Email_address": "alrefaaiarwa@gmail.com",
+    "Job_Title": "Junior Web Devlober",
+    "Salary": "100"
+},
+{
+    "Unique_ID": 0,
+    "First_Name": "Arwa",
+    "Last_Name": "Alrefaai",
+    "Email_address": "alrefaaiarwa@gmail.com",
+    "Job_Title": "Junior Web Devlober",
+    "Salary": "100"
+},
+{
+    "Unique_ID": 0,
+    "First_Name": "Arwa",
+    "Last_Name": "Alrefaai",
+    "Email_address": "alrefaaiarwa@gmail.com",
+    "Job_Title": "Junior Web Devlober",
+    "Salary": "100"
+},
+{
+    "Unique_ID": 0,
+    "First_Name": "Arwa",
+    "Last_Name": "Alrefaai",
+    "Email_address": "alrefaaiarwa@gmail.com",
+    "Job_Title": "Junior Web Devlober",
+    "Salary": "100"
+},
+{
+    "Unique_ID": 0,
+    "First_Name": "Arwa",
+    "Last_Name": "Alrefaai",
+    "Email_address": "alrefaaiarwa@gmail.com",
+    "Job_Title": "Junior Web Devlober",
+    "Salary": "100"
+},
+{
+    "Unique_ID": 0,
+    "First_Name": "Arwa",
+    "Last_Name": "Alrefaai",
+    "Email_address": "alrefaaiarwa@gmail.com",
+    "Job_Title": "Junior Web Devlober",
+    "Salary": "100"
+},
+{
+    "Unique_ID": 0,
+    "First_Name": "Arwa",
+    "Last_Name": "Alrefaai",
+    "Email_address": "alrefaaiarwa@gmail.com",
+    "Job_Title": "Junior Web Devlober",
+    "Salary": "100"
+},
+{
+    "Unique_ID": 0,
+    "First_Name": "Arwa",
+    "Last_Name": "Alrefaai",
+    "Email_address": "alrefaaiarwa@gmail.com",
+    "Job_Title": "Junior Web Devlober",
+    "Salary": "100"
+}
+]`;
