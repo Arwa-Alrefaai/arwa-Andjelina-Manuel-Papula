@@ -1,0 +1,80 @@
+let employeesjson = `[{
+    "uid": "123",
+    "fname": "Manuel",
+    "lname": "Papula",
+    "email": "m.p@crazy.mail",
+    "job": "unemployed",
+    "Salary": "not that much"
+},
+{
+    "uid": "124",
+    "fname": "Marco",
+    "lname": "Wanjura",
+    "email": "m.w@crazy.mail",
+    "job": "Trainee",
+    "Salary": "1.800,--"
+},
+{
+    "uid": "125",
+    "fname": "Sam",
+    "lname": "Fischer",
+    "email": "s.f@crazy.mail",
+    "job": "Special Agent",
+    "Salary": "Top Secret"
+},
+{
+    "uid": "126",
+    "fname": "Hans",
+    "lname": "Wurst",
+    "email": "h.w@crazy.mail",
+    "job": "Influencer",
+    "Salary": "varies between 0 and 10.000,--"
+},
+{
+    "uid": "127",
+    "fname": "Mr.",
+    "lname": "Divers",
+    "email": "m.d@crazy.mail",
+    "job": "Right Activist",
+    "Salary": "50,--"
+},
+{
+    "uid": "128",
+    "fname": "Erika",
+    "lname": "Mustermann",
+    "email": "e.m@crazy.mail",
+    "job": "Musterjob",
+    "Salary": "1.500,--"
+},
+{
+    "uid": "129",
+    "fname": "Max",
+    "lname": "Mustermann",
+    "email": "m.m@crazy.mail",
+    "job": "Musterjob",
+    "Salary": "2.000,--"
+},
+{
+    "uid": "130",
+    "fname": "John",
+    "lname": "Doe",
+    "email": "j.d@crazy.mail",
+    "job": "Owner",
+    "Salary": "100.000.000,--"
+},
+{
+    "uid": "131",
+    "fname": "Silvia",
+    "lname": "Fuchs",
+    "email": "s.f69@crazy.mail",
+    "job": "Marketing Management",
+    "Salary": "2.500,--"
+},
+{
+    "uid": "132",
+    "fname": "Bob",
+    "lname": "Karl",
+    "email": "B.K@crazy.mail",
+    "job": "Fensterputzer",
+    "Salary": "1.100,--"
+}]`
